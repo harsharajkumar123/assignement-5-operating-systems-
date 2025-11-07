@@ -70,4 +70,3 @@ Create a file in the root of this directory called ai-usage.txt containing a dis
 
 Recall from the syllabus: "Any use of AI tools must be disclosed. This disclosure is a report that includes what AI tools you used, what it helped you with, and what it could not help you with. You will not be penalized for using AI tools, but you may be penalized for inadequate or incomplete disclosure." This implies that you must describe both how it was effective AND how it was ineffective.
 
-# assignement-5-operating-systems-
