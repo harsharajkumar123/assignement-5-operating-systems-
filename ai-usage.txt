@@ -1,0 +1,2 @@
+AI helped me to understand the concept of __ATOMIC_SEQ_CST and how memory ordering works for atomic operations.
+AI couldn't help me to debug my code; I had to solve the compilation errors and implementation issues on my own.
